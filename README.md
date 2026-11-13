@@ -1,7 +1,7 @@
 # Security Architecture Playbook
 
 **Author:** Facundo "Nick" Montefalcone  
-**Role:** Cloud Security Architect | OSCP | 15+ Years Experience (Fintech, K-12 EdTech, SaaS)  
+**Role:** Cloud Security Architect | 15+ Years Experience (Fintech, K-12 EdTech, SaaS)  
 **License:** [MIT](./LICENSE)
 
 A practitioner-focused, vendor-neutral repository of cloud security architecture patterns, evaluation frameworks, and governance processes designed for high-velocity engineering environments.
